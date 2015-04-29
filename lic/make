@@ -1,0 +1,3 @@
+#!/bin/bash
+awk '{print $2}' bkasdj | grep -v License | grep -v SW-RH | grep -v SW- | grep -v Access | grep -v Server | grep -v '1/3' | grep -v Dual | grep -v Rou | grep -v '(S' | grep -v Nod | grep -v Do | grep -v Key | grep -v Sy | grep -v '2/3'  | awk '{print "license apply",$1}'
+

@@ -1,0 +1,6 @@
+
+*/5 * * * * /tmp/servFailC > /tmp/serFailcheck.log
+*/10 * * * * /home/system/scripts/incoming > /tmp/incoming.log ;  /home/system/scripts/outgoing > /tmp/outgoing.log
+
+*/5 * * * * /tmp/query_count > /tmp/query.log
+

@@ -1,0 +1,21 @@
+192.115.191.41
+192.115.191.41
+172.22.13.118
+172.16.21.113
+172.22.13.139
+192.168.30.60
+192.114.47.4
+212.179.123.29
+172.22.13.236
+172.22.12.16
+192.115.191.41
+]0;root@ptkpl-dpasrv:~[root@ptkpl-dpasrv ~]# zdump -v Asia/Jerusalem | grep "Oct 26.*2014"
+Asia/Jerusalem  Sat Oct 25 22:59:59 2014 UTC = Sun Oct 26 01:59:59 2014 IDT isdst=1 gmtoff=10800
+Asia/Jerusalem  Sat Oct 25 23:00:00 2014 UTC = Sun Oct 26 01:00:00 2014 IST isdst=0 gmtoff=7200
+172.16.22.181
+172.22.13.80
+]0;root@gabi.bezeqint.co.il: ~[01;36m1000,12[00m:[00;31mroot@gabi[01;34m[00m:[00;32m15:24:50[00m: [01;34m~[00m#zdump -v Asia/Jerusalem | grep "Oct 26.*2014"
+gabi.bezeqint.co.il
+172.22.234.20
+192.115.20.37
+Last login: Sun Oct 26 10:28:34 2014 from 172.16.204.165
